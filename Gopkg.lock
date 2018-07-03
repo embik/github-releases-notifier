@@ -81,7 +81,7 @@
     "context",
     "context/ctxhttp"
   ]
-  revision = "dfa909b99c79129e1100513e5cd36307665e5723"
+  revision = "ed29d75add3d7c4bf7ca65aac0c6df3d1420216f"
 
 [[projects]]
   branch = "master"
@@ -90,7 +90,7 @@
     ".",
     "internal"
   ]
-  revision = "770e5ebd4ab27c4d70b0983674d138217f5e2c72"
+  revision = "ef147856a6ddbb60760db74283d2424e98c87bff"
 
 [[projects]]
   name = "google.golang.org/appengine"
@@ -103,8 +103,8 @@
     "internal/urlfetch",
     "urlfetch"
   ]
-  revision = "150dc57a1b433e64154302bdc40b6bb8aefa313a"
-  version = "v1.0.0"
+  revision = "b1f26356af11148e710935ed1ac8a7f5702c7612"
+  version = "v1.1.0"
 
 [solve-meta]
   analyzer-name = "dep"
