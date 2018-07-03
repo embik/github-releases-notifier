@@ -1,8 +1,7 @@
 # github-releases-notifier
 
-[![Build Status](https://travis-ci.org/justwatchcom/github-releases-notifier.svg?branch=master)](https://travis-ci.org/justwatchcom/github-releases-notifier)
-[![Go Report Card](https://goreportcard.com/badge/github.com/justwatchcom/github-releases-notifier)](https://goreportcard.com/report/github.com/justwatchcom/github-releases-notifier)
-[![Docker Pulls](https://img.shields.io/docker/pulls/justwatch/github-releases-notifier.svg?maxAge=604800)](https://hub.docker.com/r/justwatch/github-releases-notifier)
+[![Build Status](https://travis-ci.org/embik/github-releases-notifier.svg?branch=master)](https://travis-ci.org/embik/github-releases-notifier)
+[![Go Report Card](https://goreportcard.com/badge/github.com/embik/github-releases-notifier)](https://goreportcard.com/report/github.com/embik/github-releases-notifier)
 
 Receive Slack notifications if a new release of your favorite software is available on GitHub.
 
